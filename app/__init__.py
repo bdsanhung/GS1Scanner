@@ -1,0 +1,1 @@
+# GS1 Scanner Application Package

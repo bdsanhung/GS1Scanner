@@ -1,0 +1,25 @@
+{
+    "application": {
+        "name": "GS1 Scanner",
+        "version": "1.0.0"
+    },
+    "camera": {
+        "default_index": 0,
+        "resolution": {
+            "width": 1920,
+            "height": 1080
+        },
+        "fps": 30
+    },
+    "scanner": {
+        "scan_interval_ms": 200,
+        "auto_scan": true
+    },
+    "sound": {
+        "success": "ok.mp3",
+        "failed": "ng.mp3"
+    },
+    "history": {
+        "max_records": 10000
+    }
+}
